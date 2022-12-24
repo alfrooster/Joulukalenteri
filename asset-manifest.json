@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Joulukalenteri/static/css/main.933dc2ad.css",
+    "main.js": "/Joulukalenteri/static/js/main.ce4302d7.js",
+    "static/js/787.f1471601.chunk.js": "/Joulukalenteri/static/js/787.f1471601.chunk.js",
+    "static/media/1335.jpg": "/Joulukalenteri/static/media/1335.42d2daed90bb631fba30.jpg",
+    "static/media/MountainsofChristmas-Bold.ttf": "/Joulukalenteri/static/media/MountainsofChristmas-Bold.a7c5688effb00c5b0b63.ttf",
+    "static/media/MountainsofChristmas-Regular.ttf": "/Joulukalenteri/static/media/MountainsofChristmas-Regular.2861b539fdca25d76197.ttf",
+    "index.html": "/Joulukalenteri/index.html",
+    "main.933dc2ad.css.map": "/Joulukalenteri/static/css/main.933dc2ad.css.map",
+    "main.ce4302d7.js.map": "/Joulukalenteri/static/js/main.ce4302d7.js.map",
+    "787.f1471601.chunk.js.map": "/Joulukalenteri/static/js/787.f1471601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933dc2ad.css",
+    "static/js/main.ce4302d7.js"
+  ]
+}
